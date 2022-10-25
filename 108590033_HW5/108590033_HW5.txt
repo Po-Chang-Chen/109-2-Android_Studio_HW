@@ -1,0 +1,19 @@
+5-1
+Question 1
+Tests that are compiled and run entirely on your local machine with the Java Virtual Machine (JVM).
+
+Question 2
+com.example.android.SimpleCalcTest (test)
+
+Question 3
+@Test
+
+5-2
+Question 1
+Copy the image files into your project's drawable folder.
+
+Question 2
+Add the android:onClick attribute to the ImageView in the layout and use it to call the click handler in the Activity
+
+Question 3
+The click handler must customize the View.OnClickListener class and override its click handler to perform some action.

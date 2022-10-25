@@ -1,0 +1,19 @@
+8-1
+Question 1
+NinePatchDrawable
+
+Question 2
+StateListDrawable
+
+Question 3
+Theme.AppCompat.Light.DarkActionBar
+
+8-2
+Question 1
+colorPrimary
+
+Question 2
+Design Support Library
+
+Question 3
+Any color shade labeled 500.

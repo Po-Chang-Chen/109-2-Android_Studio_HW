@@ -1,0 +1,10 @@
+include ':app'
+<<<<<<< HEAD
+rootProject.name = "108590033_HW1"
+=======
+<<<<<<< HEAD
+rootProject.name = "108590033_HW1"
+=======
+rootProject.name = "108590033"
+>>>>>>> HW2
+>>>>>>> HW2

@@ -1,0 +1,6 @@
+1-1.To indicate determinate progress, you set the style of the progress bar to R.style.Widget_ProgressBar_Horizontal and set the amount of progress.
+1-2.在activity_main.xml裡找到設定他的值即可android:progress="25"
+2-1.Its Long value and it is the value that is expected to return from doInBackground and passed as a callback to onPostExecute.
+2-2.Params
+2-3.Long value
+3.Implement onProgressUpdate(). Call onProgressUpdate().

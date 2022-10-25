@@ -1,0 +1,22 @@
+6-1
+Question 1
+The major difference is that checkboxes enable multiple selections, while a RadioGroup allows only one selection.
+
+Question 2
+LinearLayout
+
+Question 3
+isChecked()
+
+6-2
+Question 1
+menu_main.xml
+
+Question 2
+onClick(View view)
+
+Question 3
+myAlertBuilder.setTitle("Alert");
+
+Question 4
+In the onCreateDialog() method in the extension of DialogFragment.

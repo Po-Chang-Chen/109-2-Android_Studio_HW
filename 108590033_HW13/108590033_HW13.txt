@@ -1,0 +1,18 @@
+13-1
+Question 1
+onPause()
+
+Question 2 
+onCreate()
+
+Question 3
+
+13-2
+Question 1
+strings.xml
+
+Question 2
+  pref_general.xml
+
+Question 3
+  Use a settings activity that extends AppCompatActivity, a fragment that extends PreferenceFragmentCompat, and a SwitchPreferenceCompat for the UI.
